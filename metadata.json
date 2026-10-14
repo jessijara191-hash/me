@@ -1,0 +1,6 @@
+{
+  "name": "amgoolfree",
+  "description": "amgoolfree - 24/7 Autonomous AI Omnichannel E-Commerce & Viral Marketing System. AI friend & dropshipping automation powered by AliExpress/Alibaba with 20% auto-margin, multi-country sales, and human-like sales rep.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
